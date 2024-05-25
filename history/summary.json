@@ -114,19 +114,19 @@
     "url": "https://react-flight-tracker.dev.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/react-flight-tracker.dev.apoorva64.com.ico",
     "slug": "react-flight-tracker-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 522,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 526,
+    "timeDay": 539,
+    "timeWeek": 526,
+    "timeMonth": 526,
+    "timeYear": 526,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 11
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.devops-tools.apoorva64.com.ico",
     "slug": "sonarqube",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.84%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 784,
     "timeDay": 693,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2024-05-25": 0
+      "2024-05-25": 11
     }
   },
   {

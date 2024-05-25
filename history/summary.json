@@ -114,36 +114,40 @@
     "url": "https://react-flight-tracker.dev.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/react-flight-tracker.dev.apoorva64.com.ico",
     "slug": "react-flight-tracker-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 433,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
-    "dailyMinutesDown": {}
+    "time": 519,
+    "timeDay": 522,
+    "timeWeek": 519,
+    "timeMonth": 519,
+    "timeYear": 519,
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   },
   {
     "name": "Sonarqube",
     "url": "https://sonarqube.devops-tools.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.devops-tools.apoorva64.com.ico",
     "slug": "sonarqube",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 819,
-    "timeDay": 813,
-    "timeWeek": 819,
-    "timeMonth": 819,
-    "timeYear": 819,
-    "dailyMinutesDown": {}
+    "time": 784,
+    "timeDay": 693,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
+    "dailyMinutesDown": {
+      "2024-05-25": 0
+    }
   },
   {
     "name": "Weave GitOps",

@@ -138,19 +138,19 @@
     "url": "https://sonarqube.devops-tools.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.devops-tools.apoorva64.com.ico",
     "slug": "sonarqube",
-    "status": "down",
-    "uptime": "93.53%",
-    "uptimeDay": "65.22%",
-    "uptimeWeek": "93.53%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "93.53%",
-    "time": 787,
-    "timeDay": 731,
-    "timeWeek": 787,
-    "timeMonth": 787,
-    "timeYear": 787,
+    "status": "up",
+    "uptime": "93.35%",
+    "uptimeDay": "64.18%",
+    "uptimeWeek": "93.35%",
+    "uptimeMonth": "93.35%",
+    "uptimeYear": "93.35%",
+    "time": 782,
+    "timeDay": 734,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2024-05-25": 501
+      "2024-05-25": 516
     }
   },
   {

@@ -1,7 +1,7 @@
 url: https://api.minio-main.storage.apoorva64.com/minio/health/live
 status: up
 code: 200
-responseTime: 610
-lastUpdated: 2024-05-30T20:34:54.525Z
+responseTime: 452
+lastUpdated: 2024-05-30T23:17:58.575Z
 startTime: 2024-05-20T09:53:43.296Z
 generator: Upptime <https://github.com/upptime/upptime>

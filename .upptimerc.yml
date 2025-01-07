@@ -23,6 +23,9 @@ sites:
     url: https://weave-gitops.devops-tools.apoorva64.com
   - name: RickRoll
     url: https://yes.apoorva64.com
+  - name: Kiali (Istio UI)
+    url: https://kiali.service-mesh.apoorva64.com/kiali/console
+    
 
 status-website:
   baseUrl: /KubernetesUpptime

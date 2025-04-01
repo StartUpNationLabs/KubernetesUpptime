@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-04-01": 1302,
+      "2025-04-01": 1337,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -193,12 +193,12 @@
     "url": "https://grafana.monitoring.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.monitoring.apoorva64.com.ico",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "76.39%",
-    "uptimeWeek": "90.38%",
+    "status": "down",
+    "uptime": "98.82%",
+    "uptimeDay": "76.37%",
+    "uptimeWeek": "90.37%",
     "uptimeMonth": "96.00%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.82%",
     "time": 3509,
     "timeDay": 4519,
     "timeWeek": 6167,
@@ -232,7 +232,7 @@
       "2024-12-04": 13,
       "2024-12-03": 64,
       "2024-11-26": 479,
-      "2024-11-25": 1053
+      "2024-11-25": 953
     }
   },
   {
@@ -252,7 +252,7 @@
     "timeMonth": 0,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-04-01": 1302,
+      "2025-04-01": 1337,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
@@ -486,11 +486,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.auth.apoorva64.com.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "97.22%",
+    "uptime": "97.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.22%",
+    "uptimeYear": "97.23%",
     "time": 338,
     "timeDay": 0,
     "timeWeek": 0,

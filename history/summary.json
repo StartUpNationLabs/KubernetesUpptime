@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-05-18": 771,
+      "2025-05-18": 800,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -240,9 +240,9 @@
     "url": "https://grafana.monitoring.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.monitoring.apoorva64.com.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "75.27%",
+    "uptimeDay": "75.26%",
     "uptimeWeek": "83.12%",
     "uptimeMonth": "96.06%",
     "uptimeYear": "99.35%",
@@ -263,7 +263,7 @@
       "2025-05-07": 26,
       "2025-04-05": 556,
       "2025-04-04": 625,
-      "2025-04-03": 499
+      "2025-04-03": 473
     }
   },
   {
@@ -283,7 +283,7 @@
     "timeMonth": 0,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-05-18": 771,
+      "2025-05-18": 800,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
@@ -1004,11 +1004,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yes.apoorva64.com.ico",
     "slug": "rick-roll",
     "status": "up",
-    "uptime": "89.13%",
+    "uptime": "89.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "89.13%",
+    "uptimeYear": "89.14%",
     "time": 506,
     "timeDay": 0,
     "timeWeek": 0,

@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-05-19": 1174,
+      "2025-05-19": 1196,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
@@ -241,17 +241,17 @@
     "url": "https://grafana.monitoring.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.monitoring.apoorva64.com.ico",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "40.66%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "41.28%",
     "uptimeWeek": "74.39%",
     "uptimeMonth": "93.91%",
-    "uptimeYear": "99.26%",
-    "time": 3638,
-    "timeDay": 6556,
-    "timeWeek": 4845,
-    "timeMonth": 5040,
-    "timeYear": 3638,
+    "uptimeYear": "99.27%",
+    "time": 3632,
+    "timeDay": 6481,
+    "timeWeek": 4805,
+    "timeMonth": 5001,
+    "timeYear": 3632,
     "dailyMinutesDown": {
       "2025-05-19": 749,
       "2025-05-18": 419,
@@ -265,7 +265,7 @@
       "2025-05-07": 26,
       "2025-04-05": 556,
       "2025-04-04": 625,
-      "2025-04-03": 44
+      "2025-04-03": 4
     }
   },
   {
@@ -285,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 582,
     "dailyMinutesDown": {
-      "2025-05-19": 1174,
+      "2025-05-19": 1196,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
       "2025-05-16": 1440,

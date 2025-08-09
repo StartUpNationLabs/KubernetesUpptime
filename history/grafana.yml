@@ -1,7 +1,7 @@
 url: https://grafana.monitoring.apoorva64.com
-status: down
-code: 404
-responseTime: 414
-lastUpdated: 2025-08-09T22:12:51.119Z
+status: up
+code: 200
+responseTime: 1687
+lastUpdated: 2025-08-09T22:37:32.491Z
 startTime: 2024-05-20T09:53:44.129Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.minio-main.storage.apoorva64.com.ico",
     "slug": "minio-api",
     "status": "down",
-    "uptime": "37.70%",
+    "uptime": "37.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-08-11": 1285,
+      "2025-08-12": 342,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -302,8 +303,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 1440
+      "2024-08-13": 1440
     }
   },
   {
@@ -311,18 +311,19 @@
     "url": "https://grafana.monitoring.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.monitoring.apoorva64.com.ico",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "99.28%",
-    "uptimeDay": "97.48%",
-    "uptimeWeek": "99.40%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.12%",
-    "time": 3403,
-    "timeDay": 6165,
-    "timeWeek": 4460,
-    "timeMonth": 4460,
-    "timeYear": 3587,
+    "time": 3407,
+    "timeDay": 9601,
+    "timeWeek": 4771,
+    "timeMonth": 4771,
+    "timeYear": 3591,
     "dailyMinutesDown": {
+      "2025-08-12": 0,
       "2025-08-11": 25,
       "2025-08-10": 11,
       "2025-08-09": 25,
@@ -339,8 +340,7 @@
       "2025-06-26": 11,
       "2025-05-24": 726,
       "2025-05-22": 76,
-      "2025-05-21": 711,
-      "2025-05-20": 11
+      "2025-05-21": 711
     }
   },
   {
@@ -349,18 +349,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/harbor.devops-tools.apoorva64.com.ico",
     "slug": "harbor",
     "status": "down",
-    "uptime": "23.90%",
+    "uptime": "23.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.58%",
+    "uptimeYear": "6.49%",
     "time": 582,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2025-08-11": 1285,
+      "2025-08-12": 342,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -710,8 +711,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 673,
-      "2024-08-12": 61
+      "2024-08-13": 673
     }
   },
   {
@@ -765,8 +765,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 676,
-      "2024-08-12": 18
+      "2024-08-13": 676
     }
   },
   {
@@ -775,7 +774,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/open-webui.ai.apoorva64.com.ico",
     "slug": "open-web-ui",
     "status": "up",
-    "uptime": "83.25%",
+    "uptime": "83.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -880,8 +879,7 @@
       "2024-08-23": 1440,
       "2024-08-22": 790,
       "2024-08-14": 1239,
-      "2024-08-13": 654,
-      "2024-08-12": 18
+      "2024-08-13": 654
     }
   },
   {
@@ -935,8 +933,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 675,
-      "2024-08-12": 18
+      "2024-08-13": 675
     }
   },
   {
@@ -945,7 +942,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/react-flight-tracker.dev.apoorva64.com.ico",
     "slug": "react-flight-tracker-dev",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -994,18 +991,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarqube.devops-tools.apoorva64.com.ico",
     "slug": "sonarqube",
     "status": "down",
-    "uptime": "80.40%",
+    "uptime": "80.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.18%",
+    "uptimeYear": "76.09%",
     "time": 609,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-08-11": 1286,
+      "2025-08-12": 343,
+      "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
@@ -1126,8 +1124,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 1440,
-      "2024-08-12": 130
+      "2024-08-13": 1440
     }
   },
   {
@@ -1136,7 +1133,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/weave-gitops.devops-tools.apoorva64.com.ico",
     "slug": "weave-git-ops",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1190,7 +1187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/yes.apoorva64.com.ico",
     "slug": "rick-roll",
     "status": "up",
-    "uptime": "91.20%",
+    "uptime": "91.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1261,8 +1258,7 @@
       "2024-08-16": 1440,
       "2024-08-15": 1440,
       "2024-08-14": 1440,
-      "2024-08-13": 706,
-      "2024-08-12": 28
+      "2024-08-13": 706
     }
   },
   {

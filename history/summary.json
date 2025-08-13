@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-08-13": 974,
+      "2025-08-13": 1001,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -311,17 +311,17 @@
     "url": "https://grafana.monitoring.apoorva64.com",
     "icon": "https://icons.duckduckgo.com/ip3/grafana.monitoring.apoorva64.com.ico",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "89.78%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "89.77%",
     "uptimeWeek": "97.27%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.19%",
-    "time": 3444,
-    "timeDay": 5747,
-    "timeWeek": 4842,
-    "timeMonth": 4842,
-    "timeYear": 3655,
+    "time": 3446,
+    "timeDay": 5715,
+    "timeWeek": 4861,
+    "timeMonth": 4861,
+    "timeYear": 3657,
     "dailyMinutesDown": {
       "2025-08-13": 147,
       "2025-08-12": 66,
@@ -341,7 +341,7 @@
       "2025-06-26": 11,
       "2025-05-24": 726,
       "2025-05-22": 76,
-      "2025-05-21": 137
+      "2025-05-21": 113
     }
   },
   {
@@ -350,7 +350,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/harbor.devops-tools.apoorva64.com.ico",
     "slug": "harbor",
     "status": "down",
-    "uptime": "23.81%",
+    "uptime": "23.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -361,7 +361,7 @@
     "timeMonth": 0,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2025-08-13": 974,
+      "2025-08-13": 1001,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -783,7 +783,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1366,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-05-07": 26,
       "2025-02-23": 17,
@@ -896,7 +896,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 584,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2025-05-07": 26,
       "2025-02-23": 17,
@@ -949,7 +949,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 505,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2025-05-07": 26,
       "2025-02-23": 17,
@@ -999,7 +999,7 @@
     "timeMonth": 0,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-08-13": 975,
+      "2025-08-13": 1001,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
@@ -1192,7 +1192,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 480,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2025-05-07": 26,
       "2025-02-23": 17,

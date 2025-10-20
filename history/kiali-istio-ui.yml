@@ -1,7 +1,7 @@
 url: https://kiali.service-mesh.apoorva64.com/kiali/console
-status: down
-code: 404
-responseTime: 413
-lastUpdated: 2025-10-20T21:23:28.610Z
+status: up
+code: 200
+responseTime: 342
+lastUpdated: 2025-10-20T21:37:25.053Z
 startTime: 2025-01-07T09:38:34.908Z
 generator: Upptime <https://github.com/upptime/upptime>
